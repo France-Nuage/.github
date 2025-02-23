@@ -2,11 +2,9 @@
 
 **Reprenez le contrôle de votre infrastructure cloud tout en conservant ses avantages**
 
----
+Migrer hors des clouds propriétaires tout en conservant flexibilité, performance et coûts maîtrisés. Une solution souveraine 100% française pour entreprises exigeantes.
 
-## 🚀 Introduction
-
-France Nuage vous permet de migrer hors des clouds propriétaires tout en conservant flexibilité, performance et coûts maîtrisés. Une solution souveraine 100% française pour entreprises exigeantes :
+France Nuage vous permet de: 
 
 - 🛠️ **Flexibilité totale** - Utilisez **vos serveurs** ou les nôtres
 - 🔓 **Zéro Vendor Lock-in** - Stack 100% Open Source et interopérable  
@@ -20,12 +18,12 @@ France Nuage vous permet de migrer hors des clouds propriétaires tout en conser
 
 ---
 
-## ✨ Fonctionnalités Clés
-
 ### 🇫🇷 Souveraineté & Contrôle
-- Hébergement **sur vos serveurs** ou notre infrastructure française
+- **Hébergement sur vos serveurs** ou notre infrastructure française
 - Données 100% sous votre gouvernance
+- Actionnariat 100% français, 0 dettes. Nous sommes là pour durer.
 - Conformité RGPD, HDS (bientôt)
+
 
 ### 🔧 Open Source & Interopérabilité
 - Stack technologique modulaire (Kubernetes, PostgreSQL, etc.)  
