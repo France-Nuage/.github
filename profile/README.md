@@ -55,6 +55,6 @@ France Nuage vous permet de migrer hors des clouds propriétaires tout en conser
    git clone https://github.com/france-nuage/deploy && cd deploy
    ```
 
-2. [https://img.shields.io/badge/D%C3%A9ployer_sur_France_Nuage-1_clic-ff69b4](https://plateforme.france-nuage.fr/)
+2. ![https://img.shields.io/badge/D%C3%A9ployer_sur_France_Nuage-1_clic-ff69b4](https://plateforme.france-nuage.fr/)
 
 « L'excellence opérationnelle au service de votre souveraineté numérique »
